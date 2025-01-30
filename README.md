@@ -22,7 +22,7 @@ This tool helps developers identify the licenses of their project dependencies b
 1. Clone this repository:
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/CptAlessio/depedency-manager
 ```
 
 2. Install required dependencies:
@@ -55,11 +55,11 @@ The tool will output license information for each dependency in the following fo
 ```
 Dependencies:
  NPMJS - package-name license: MIT
- Maven Repository - package-name license: Apache-2.0
+ Maven - package-name license: Apache-2.0
 
 Dev Dependencies:
  NPMJS - dev-package-name license: BSD-3-Clause
- Maven Repository - dev-package-name license: MIT
+ Maven - dev-package-name license: MIT
 ```
 
 ## Contributing

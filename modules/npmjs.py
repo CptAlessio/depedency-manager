@@ -1,7 +1,6 @@
 # Copyright 2025 Alessio Marziali
 from bs4 import BeautifulSoup
 import requests
-import sys
 import logging
 
 # Enable logging across the module
